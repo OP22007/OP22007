@@ -2,21 +2,21 @@
 ![Om Patil Banner](https://i.ibb.co/3S0xq6x/github-banner.png) <!-- Replace with your own banner -->
 
 # Hi there, I'm Om Patil 👋
-🎓 **BITS Pilani (Hyderabad Campus)** | 💻 AI • Full-Stack • Cybersecurity  
-🚀 Passionate about building intelligent systems, high-performance web apps, and secure digital solutions.
+**BITS Pilani (Hyderabad Campus)** | AI • Full-Stack • Cybersecurity  
+Passionate about building intelligent systems, high-performance web apps, and secure digital solutions.
 
 ---
 
-## 🚀 About Me
-- 🎯 **Focused Areas:** Artificial Intelligence, Computer Vision, Full-Stack Web Development, Security Research
-- 🛠 Currently working on **deepfake detection & generation, LSTMs for stock prediction, and Next.js dashboards**
-- 🏸 **Hobbies:** Badminton, Cricket, Table Tennis  
-- 🌱 Always exploring **cutting-edge AI models** and **modern frontend frameworks**
-- 📝 Fun fact: I love turning complex problems into clean, scalable solutions
+## About Me
+- **Focused Areas:** Artificial Intelligence, Computer Vision, Full-Stack Web Development, Security Research
+- Currently working on **deepfake detection & generation, LSTMs for stock prediction, and Next.js dashboards**
+- **Hobbies:** Badminton, Cricket, Table Tennis  
+- Always exploring **cutting-edge AI models** and **modern frontend frameworks**
+- Fun fact: I love turning complex problems into clean, scalable solutions
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -37,25 +37,25 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OP22007&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OP22007&layout=compact&theme=radical)
 
 ---
 
-## 📊 Activity Graph
+## Activity Graph
 [![Om's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OP22007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🌟 Featured Projects
-- 🎵 **[HarmoniX](https://github.com/OP22007/HarmoniX)** – Comprehensive music management platform with PL/SQL backend and Next.js frontend
-- 🤖 **[Facial Recognition & Emotion Detection](https://github.com/OP22007/facerec-emotion)** – YOLO-based face detection and one-shot learning
-- 📊 **[Stock Price Prediction LSTM](https://github.com/OP22007/stock-lstm)** – Predicting stock market trends with deep learning
+## Featured Projects
+- **[HarmoniX](https://github.com/OP22007/HarmoniX)** – Comprehensive music management platform with PL/SQL backend and Next.js frontend
+- **[Facial Recognition & Emotion Detection](https://github.com/OP22007/facerec-emotion)** – YOLO-based face detection and one-shot learning
+- **[Stock Price Prediction LSTM](https://github.com/OP22007/stock-lstm)** – Predicting stock market trends with deep learning
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ompatil001)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omp.omtech@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://ompatil1.vercel.app)
